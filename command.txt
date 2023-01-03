@@ -1,0 +1,2 @@
+npm install --sav-dev concurrently
+npm start
